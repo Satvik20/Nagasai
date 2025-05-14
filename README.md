@@ -7,7 +7,7 @@
 
 ---
 
-- 🎓 Currently pursuing **Software Engineering** with a focus on **Java, HTML, JavaScript, Python**
+- 🎓 Currently pursuing **Software Design with Ai and Cloud Computing** with a focus on **Java, HTML, JavaScript, Python**
 - 🔍 Actively learning and building projects with **Android, Firebase, and Cloud platforms**
 - 🤝 Open to collaboration on **Java-based development and Android apps**
 - 💬 Ask me about my **coursework, projects, or tech interests**
